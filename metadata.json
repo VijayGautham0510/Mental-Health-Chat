@@ -1,0 +1,7 @@
+{
+  "name": "SereneMind",
+  "description": "A compassionate mental health companion chatbot designed to provide a safe space for reflection and support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
